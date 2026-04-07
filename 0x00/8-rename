@@ -1,0 +1,3 @@
+#!/urs/bin/sh
+# a file that contain command to rename files
+mv <oldname> <newname>

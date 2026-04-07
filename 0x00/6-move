@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+# a file that contain command to move files and directory
+mv <file> <dest>
+
+

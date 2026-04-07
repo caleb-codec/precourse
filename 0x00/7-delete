@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a file that contain command to delete files
+rm <filename>
+rm -rf <dirname>
