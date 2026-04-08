@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# afile that contain command to push files
+git push
