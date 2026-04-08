@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a file that contain command to config file
+git config user.name "your  name"
+git config user.email "your email" 
