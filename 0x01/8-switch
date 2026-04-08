@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file that contain command to switch files
+git switch "branch name"
